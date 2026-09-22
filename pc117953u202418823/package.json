@@ -1,0 +1,35 @@
+{
+  "name": "pc117953u202418823",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Web application that lets users browse the complete registry of United States presidents sourced from Sample APIs.",
+  "author": "Andy Pillaca Gonzales (u202418823)",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "wikipedia",
+    "presidents",
+    "domain-driven-design",
+    "vue",
+    "primevue",
+    "vite"
+  ],
+  "dependencies": {
+    "@primeuix/themes": "^3.0.0",
+    "axios": "^1.20.0",
+    "primeflex": "^4.0.0",
+    "primeicons": "^8.0.1",
+    "primevue": "^5.0.1",
+    "vue": "^3.5.42",
+    "vue-i18n": "^11.4.10"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.8",
+    "vite": "^8.2.2"
+  }
+}

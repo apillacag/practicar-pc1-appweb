@@ -1,0 +1,21 @@
+{
+  "app-title": "Wikipedia",
+  "president-registry": "Registro de Presidentes",
+  "unavailable-presidents": "El servicio de presidentes no está disponible en este momento.",
+  "language-switcher": {
+    "label": "Seleccionar idioma de la interfaz"
+  },
+  "president": {
+    "presidential-order": "Orden presidencial",
+    "vice-presidents": "Vicepresidentes",
+    "no-vice-presidents": "Sin vicepresidentes registrados",
+    "more-information": "Ver más",
+    "share-information": "Compartir información",
+    "share-copied": "Enlace copiado al portapapeles",
+    "photo-alt": "Foto de retrato de {name}"
+  },
+  "footer": {
+    "copyright": "Copyright © 2026 Wikipedia. Todos los derechos reservados.",
+    "developed-by": "Desarrollado por"
+  }
+}

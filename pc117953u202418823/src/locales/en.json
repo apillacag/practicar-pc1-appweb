@@ -1,0 +1,21 @@
+{
+  "app-title": "Wikipedia",
+  "president-registry": "President Registry",
+  "unavailable-presidents": "President information is not available at this time.",
+  "language-switcher": {
+    "label": "Select interface language"
+  },
+  "president": {
+    "presidential-order": "Presidential order",
+    "vice-presidents": "Vice presidents",
+    "no-vice-presidents": "No vice presidents on record",
+    "more-information": "More information",
+    "share-information": "Share information",
+    "share-copied": "Link copied to clipboard",
+    "photo-alt": "Portrait photo of {name}"
+  },
+  "footer": {
+    "copyright": "Copyright © 2026 Wikipedia. All rights reserved.",
+    "developed-by": "Developed by"
+  }
+}
